@@ -1,0 +1,15 @@
+{
+  "input": {
+    "type": "screen",
+    "userId": "user-id",
+    "timestamp": "2014",
+    "properties": {},
+    "context": {}
+  },
+  "output": {
+    "actor": "user-id",
+    "properties": {},
+    "write_key": "0e116d3930b329831f146716c3667dfe",
+    "action_name": "Screen View"
+  }
+}
